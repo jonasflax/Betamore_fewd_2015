@@ -27,8 +27,12 @@ Cascading Style Sheet (CSS)
   multiple external style sheets
   CSS selectors
     id
+      CSS- #happy{}  /=/   html- <div id="happy"></div>
     class
+      CSS- .module{}    /=/   html- <div class="module"></div>
     tag
+      CSS- h2{}   /=/   html- <h2>whatever</h2>
     child
+      CSS- 0l > li {}   /=/   needs to be an IMMEDIATE child ol > li
     descendant
-  
+      CSS- div span{}   /=/   needs to be nested somewhere within
