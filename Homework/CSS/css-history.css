@@ -5,3 +5,8 @@ h1 {
 #green-text {
   color: green;
 }
+
+.module {
+  font-weight: bold;
+  font-style: italic;
+}
