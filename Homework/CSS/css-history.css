@@ -10,3 +10,12 @@ h1 {
   font-weight: bold;
   font-style: italic;
 }
+
+li > a {
+  color: pink;
+  text-decoration: none;
+}
+
+li blockquote {
+  background-color: gray;
+}
