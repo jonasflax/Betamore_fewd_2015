@@ -2,20 +2,19 @@ h1 {
   color: red;
 }
 
-#green-text {
+#text-color {
   color: green;
 }
 
-.module {
+.date {
   font-weight: bold;
   font-style: italic;
 }
 
-li > a {
+.info > li {
   color: pink;
-  text-decoration: none;
 }
 
-li blockquote {
+ul blockquote {
   background-color: gray;
 }
