@@ -1,5 +1,26 @@
+.Logo{
+    height: 1000px;
+    width: 1000px
+}
+
 body{
-    background-position:center center;
-    background-image:url(IMG/JF Logo.jpg);
-    background-repeat: no-repeat;
+  background-color: #d3d3d3;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  float: none;
+}
+
+a {
+  display: block;
+  width: 100px;
+  background-color: white;
 }
