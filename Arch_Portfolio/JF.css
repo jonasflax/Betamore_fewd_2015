@@ -35,7 +35,7 @@ li a {
 }
 
 .Logo {
-  width: 40%;
+  width: 25%;
   position: absolute;
   top: 55%;
   left: 50%;
@@ -46,7 +46,8 @@ li a {
 .box {
   border: solid 2px black;
   border-radius: 50px;
-  max-width: 100px;
+  width: 100px;
+  height: 100px;
   display: inline-block;
   text-align: center;
 }
